@@ -16,7 +16,7 @@ int main(){
        sum+=arr[i];
    }
    
-   cout<<"Sum="<<sum;
+   cout<<"Sum of n numbers="<<sum;
    return 0;
 
 }
