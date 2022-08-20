@@ -56,6 +56,7 @@ int main(){
 
   vector<string>stringsplit = splitData(s);
 
+   cout<<endl;
   for(auto x : stringsplit){
    cout<<x<<endl;
   }
