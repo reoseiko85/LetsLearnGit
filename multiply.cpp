@@ -11,6 +11,6 @@ int main(){
   int c = a * b;
   cout<<"Multiplication of a and b ="<<c;
 
-  cout<<"Largest of two number"<<greatest(a,b);
+  cout<<"Largest of two number="<<greatest(a,b);
     return 0;
 }
